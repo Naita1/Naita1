@@ -65,11 +65,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naita1&layout=compact&hide_border=true&title_color=F06292&text_color=4FC3F7&icon_color=FBC02D&bg_color=FFFDE7" height="160" alt="languages graph" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Naita1&show_icons=true&hide_border=true&title_color=F06292&text_color=4FC3F7&icon_color=FBC02D&bg_color=FFFDE7" height="160" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Naita1&locale=pt-br&mode=weekly&hide_border=true&background=FFFDE7&ring=F48FB1&fire=FBC02D&currStreakLabel=F06292&sideNums=4FC3F7&sideLabels=4FC3F7&dates=81D4FA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
